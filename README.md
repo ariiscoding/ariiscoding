@@ -20,12 +20,8 @@ iOS Software Engineer · Los Angeles
 
 ## Toolbox
 <p align="left">
-<img src="https://skillicons.dev/icons?i=swift,swiftui,xcode,apple,firebase,gcp,python,git,github" />
+<img src="https://skillicons.dev/icons?i=swift,apple,git,github" />
 </p>
-
-- Frameworks: Swift Concurrency (async/await, `async let`), Combine, App Intents, Widgets, Live Activities, BackgroundTasks, SwiftData/Core Data, Cloud Functions.
-- Infra & QA: GitHub Actions, XCTest, Snapshot testing, SwiftLint, SwiftFormat.
-- Data: Firebase (Auth, Firestore, Remote Config), BigQuery, JSON over HTTPS.
 
 ### Stats & widgets
 <div align="center">
