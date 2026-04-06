@@ -13,11 +13,6 @@ iOS Software Engineer · Los Angeles
 
 > Product‑minded iOS engineer focused on clean architecture, reliable shipping, and respectful privacy. I build with Swift, SwiftUI, and Firebase, and I like features that feel obvious in hindsight.
 
-## What I do
-- Leading the Memories iOS team at **Snap Inc.** Opinions are my own.
-- Running **henium**, a small mobile studio.
-- Interests: SwiftData, visionOS, Core ML on device, A/B with Remote Config, real‑time sync, DI with Factory, analytics with BigQuery.
-
 ## Toolbox
 <p align="left">
 <img src="https://skillicons.dev/icons?i=swift,apple,git,github" />
